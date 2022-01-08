@@ -1,0 +1,57 @@
+.cantClick {
+    disabled: true;
+    cursor: default;
+}
+
+.participation {
+    background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
+}
+
+.non__participation {
+    background-color: rgba(209, 213, 219, var(--tw-bg-opacity));
+}
+
+.pager-num {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bule_word {
+    color: blue;
+}
+
+.page-number {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+/*------------------------------
+* アコーディオン
+-------------------------------*/
+
+.menu__item {
+    background: #fff;
+    color: #222;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 1px;
+    position: relative;
+}
+
+.menu__item__link {
+    display: block;
+    padding: 1rem;
+}
+
+.submenu {
+    display: none;
+}
+
+.submenu__item {
+    color: #34d399;
+    padding: 0.5% 16%;
+}

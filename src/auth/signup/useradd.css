@@ -1,0 +1,9 @@
+.box1 {
+    display: flex;
+    cursor: pointer;
+}
+
+.header__add_user__button {
+    padding-right: 10px;
+    padding-left: 10px;
+}

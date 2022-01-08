@@ -1,0 +1,21 @@
+.box1 {
+    display: flex;
+    cursor: pointer;
+}
+
+.delete__complete {
+    padding-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.delete__complete__text {
+    display: block;
+    font-size: 20px;
+}
+
+.checked {
+    width: 7%;
+    margin: 0 auto;
+}

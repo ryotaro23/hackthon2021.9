@@ -1,0 +1,68 @@
+.box1 {
+    display: flex;
+    cursor: pointer;
+}
+
+.pager-num {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-word {
+    color: blue;
+}
+
+.page-number {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.edit__buttons {
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.edit__buttons__form {
+    width: 100%;
+}
+
+.edit__buttons__form__input {
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+
+.header__add_user__button {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+/*------------------------------
+* アコーディオン
+-------------------------------*/
+
+.menu__item {
+    background: #fff;
+    color: #222;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 1px;
+    position: relative;
+}
+
+.menu__item__link {
+    display: block;
+    padding: 1rem;
+}
+
+.submenu {
+    display: none;
+}
+
+.submenu__item {
+    color: #34d399;
+    padding: 0.5% 16%;
+}
